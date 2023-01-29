@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grivera113
-- 👀 I’m interested in business and software development
-- 🌱 I’m currently learning python, javascript, sql
+- 👀 I'm interested in pursuing Backend Development for artificial intelligence systems and neural networks
+- 🌱 Self Taught Software Developer currently learning Python, Javascript, SQL, etc.
 
 <!---
 grivera113/grivera113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
